@@ -4,7 +4,7 @@ kmod-rtl8821cu
 
 - The Makefile file is referenced from https://github.com/immortalwrt/immortalwrt
 
-- The driver comes from https://github.com/morrownr/8821cu-20210118
+- The driver comes from ~https://github.com/morrownr/8821cu-20210118~ https://github.com/sunsky131221/8821cu-20210118
 
 - Passed the test on Openwrt 21.02 (x86_64)
 
